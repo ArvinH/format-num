@@ -81,7 +81,7 @@ class formatNum extends HTMLElement {
     const rx = /\.0+$|(\.[0-9]*[1-9])0+$/;
     for (let i = 0; i < unitMap.length; i++) {
       if (num >= unitMap[i].value) {
-        return (num / unitMap[i].value).toFixed(digits).replace(rx, "$1") + unitMap[i].symbol;
+        return (num / unitMap[i].value).toFixed(digits || 1).replace(rx, "$1") + unitMap[i].symbol;
       }
     }
     return num.toFixed(digits).replace(rx, "$1");
