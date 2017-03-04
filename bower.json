@@ -1,0 +1,20 @@
+{
+  "name": "format-num",
+  "description": "Web component: format number",
+  "main": "src/formatNum.html",
+  "authors": [
+    "arvinh <arvin0731@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "webcomponent"
+  ],
+  "homepage": "https://github.com/ArvinH/format-num",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
