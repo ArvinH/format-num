@@ -1,6 +1,6 @@
 [![Published on webcomponents.org][webcomponents-image]][webcomponents-url]
 
-# <\format-num\>
+# \<format-num\>
 Web component: format number
 
 Example:
