@@ -1,0 +1,9 @@
+{
+  "name": "format-num",
+  "version": "1.0.0",
+  "description": "Web component: format number",
+  "main": "src/formatNum.html",
+  "repository": "git@github.com:ArvinH/format-num.git",
+  "author": "arvinh <arvin0731@gmail.com>",
+  "license": "MIT"
+}
