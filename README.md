@@ -8,7 +8,7 @@ Example:
 ```
 <custom-element-demo>
   <template>
-    <link rel="import" href="../src/formatNum.html">
+    <link rel="import" href="src/formatNum.html">
     <next-code-block></next-code-block>
   </template>
 </custom-element-demo>
